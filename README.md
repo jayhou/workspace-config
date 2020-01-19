@@ -1,2 +1,2 @@
 # workspace-config
-store config for workspace easy deploy
+1、保存常用的快捷命令配置
